@@ -1,0 +1,2 @@
+Trained by the training set, tested on the training set, correctness =0.7955911823647295
+Trained by the training set, tested on the testing set, correctness =0.7955911823647295
