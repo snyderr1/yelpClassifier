@@ -1,5 +1,5 @@
 # yelpClassifier
-A simple AI classifier for OSU's Intro to artificial intelligence course.
+A simple AI classifier for OSU's Intro to artificial intelligence course. \n
 To run:
   trainer.py <training set> <testing set>
   Example: trainer.py trainingText.txt testText.txt
